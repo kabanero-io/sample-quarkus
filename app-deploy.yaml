@@ -3,8 +3,8 @@ kind: AppsodyApplication
 metadata:
   annotations:
     cekit.io/version: 3.6.0
-    commit.image.appsody.dev/date: Fri May 15 17:07:00 2020 -0400
-    commit.image.appsody.dev/message: 0.9.0-rc.3
+    commit.image.appsody.dev/date: Wed May 20 13:47:56 2020 -0400
+    commit.image.appsody.dev/message: 0.9.0
     commit.stack.appsody.dev/contextDir: /incubator/quarkus
     commit.stack.appsody.dev/date: Wed May 13 15:06:15 2020 +0100
     commit.stack.appsody.dev/message: 'quarkus: add monitoring to app-deploy.yaml
@@ -12,9 +12,9 @@ metadata:
     graalvm-archive-filename: graalvm-ce-linux-amd64-19.3.1-java8.tar.gz
     graalvm-archive-url: https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-19.3.1/graalvm-ce-java8-linux-amd64-19.3.1.tar.gz
     graalvm-version: java8-19.3.1
-    image.opencontainers.org/created: "2020-05-20T13:44:19-04:00"
+    image.opencontainers.org/created: "2020-05-20T13:52:29-04:00"
     image.opencontainers.org/documentation: https://github.com/kabanero-io/sample-quarkus
-    image.opencontainers.org/revision: d8eb189fc77ad562b61b7d2745e92d4f748a5699-modified
+    image.opencontainers.org/revision: e22dc08e467e7225774d9058ffad1f6b27dae32e-modified
     image.opencontainers.org/source: https://github.com/kabanero-io/sample-quarkus/tree/HEAD
       -> origin
     image.opencontainers.org/url: https://github.com/kabanero-io/sample-quarkus
